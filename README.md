@@ -8,3 +8,4 @@
 ## Applications using scraping
 
 - [Discover content before it gets trendy](https://meetglimpse.com/)
+- [Exploding topics - monitor topics that are or will get trendy](https://explodingtopics.com/about)
